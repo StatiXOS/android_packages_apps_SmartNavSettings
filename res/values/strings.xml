@@ -210,4 +210,17 @@
     <string name="smartbar_double_tap_sleep_summary">Double-tap on empty navbar areas to sleep</string>
     <string name="reset">Reset</string>
 
+    <!-- Bottom navigation gestures -->
+    <string name="gesture_interface_title">Gesture</string>
+    <string name="use_bottom_gesture_title">Navigation Gestures</string>
+    <string name="use_bottom_gesture_summary">Use bottom swipe up gestures for navigation</string>
+    <string name="gesture_swipe_length_title">Swipe trigger height</string>
+    <string name="gesture_swipe_length_summary">Heigth from bottom to trigger swipe</string>
+    <string name="gesture_action_timeout_title">Swipe trigger timeout</string>
+    <string name="gesture_action_timeout_summary">Timeout before the gesture action is started</string>
+
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel animation</string>
+    <string name="pixel_navbar_anim_summary">Toggle home button animation on stock navbar</string>
+
 </resources>
