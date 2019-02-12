@@ -30,8 +30,8 @@ import android.support.v7.preference.Preference;
 import android.support.v7.preference.ListPreference;
 import android.provider.Settings;
 
-import net.margaritov.preference.colorpicker.ColorPickerPreference;
-import com.statix.sparks.preferences.CustomSeekBarPreference;
+import com.statix.support.colorpicker.ColorPickerPreference;
+import com.statix.support.preferences.CustomSeekBarPreference;
 
 public class PulseSettings extends SettingsPreferenceFragment implements
         Preference.OnPreferenceChangeListener {

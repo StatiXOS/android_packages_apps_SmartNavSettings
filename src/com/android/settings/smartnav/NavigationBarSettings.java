@@ -32,7 +32,7 @@ import android.support.v7.preference.PreferenceScreen;
 import android.support.v7.preference.Preference.OnPreferenceChangeListener;
 import android.provider.Settings;
 
-import com.statix.sparks.preferences.CustomSeekBarPreference;
+import com.statix.support.preferences.CustomSeekBarPreference;
 
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.internal.logging.nano.MetricsProto;
